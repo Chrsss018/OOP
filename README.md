@@ -1,4 +1,4 @@
-# OOP
+# OOP.
 
 CAnimal - Abstract class. Inheritance -> CCarnivorousAnimal & CHerbivorousAnimal -> animals.
 
